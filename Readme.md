@@ -1,67 +1,39 @@
-# Coding Assessment L-2 Code Submission Process with Boilerplate
+**Single Page E-commerce Store**
 
-Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
-
-## Getting Started
-
-1. **Clone or Download:**
-   - If using Git, clone the repository using the following command:
-     ```
-     git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
-     ```
-   - Alternatively, download the code as a ZIP file and extract it.
-
-2. **Navigate to Project Directory:**
-
-3. **Explore the Structure:**
-Take a moment to review the project structure:
-
-        project-root/
-        |-- index.html
-        |-- style.css
-        |-- script.js
-        |-- README.md
-- `index.html`: Main HTML file for your project.
-- `style.css`: CSS file for styling.
-- `script.js`: JavaScript file for scripting logic.
-- `README.md`: Documentation for your project.
-  
-> **Important:** Avoid using additional files or a single file for your code. Feel free to organize asset files by creating a separate folder.
-
-## Development and Testing
-
-4. **Start Working:**
-- Read all requirements that are shared with design files.
-- Open `index.html` in your browser to view the initial state of the project, And start coding.
-- Modify the `style.css` and `script.js` files to implement your solution.
-5. **Testing:**
-- Test your code to ensure it produces the expected output.
-- Ensure that the console (Developer Tools) does not display any errors.
+**WATCH THE CODE IN ACTION HERE**
+deployed link : `https://nishant5397.github.io/Coding-assessment-l2/`
 
 
----
-## Submission Guidelines
 
-### Option 1: GitHub Repository
+**Description:**
+This project is a single-page e-commerce store built using HTML, CSS, and JavaScript. It provides a user-friendly interface to browse through different categories of products (Men, Women, Kids) and view product details.
 
-1. Create a new public repository on GitHub.
-2. Upload your project files (index.html, style.css, script.js) to the repository.
-3. Write a brief description of your project in the README.md file.
-4. Share the repository URL with us.
+**Features:**
+- Tab switching layout to switch between Men, Women, and Kids categories.
+- Dynamic loading of product cards based on the selected category.
+- Product badge indicating special offers or promotions, fetched from API response.
+- Product card image fetched from API response.
+- Display of product title, vendor name, price, compare at price, and calculated discount percentage.
+- Responsive design for mobile, tablet, and desktop screens.
 
-### Option 2: ZIP File on Google Drive
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- Google Fonts API
+- Product data fetched from JSON API
 
-1. Create a ZIP file of your entire project.
-2. Upload the ZIP file to your Google Drive.
-3. Share the public link to the ZIP file via email.
+**Instructions for Running the Project:**
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a web browser.
 
-## Hosting (Bonus)
-You can earn bonus points by hosting your project on a free hosting platform such as GitHub Pages or Netlify.
+**Project Structure:**
+- `index.html`: Main HTML file containing the structure of the single-page e-commerce store.
+- `styles.css`: CSS file for styling the e-commerce store.
+- `script.js`: JavaScript file for fetching product data from the API and rendering product cards dynamically.
 
-## Important Notes
 
-- Do not use any third-party libraries or frameworks.
-- Ensure that your project works as intended and is free from errors.
-- Make sure to include clear instructions on how to run your project (if necessary).
+**Author:**
+[Nishant Godse]
+contact: nishantgodse@gmail.com
 
-Feel free to reach out to invigilator at `rishabh@marmeto.com` if you have any questions. Good luck! We look forward to reviewing your submission.
