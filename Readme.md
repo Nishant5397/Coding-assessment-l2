@@ -1,7 +1,7 @@
 **Single Page E-commerce Store**
 
 **WATCH THE CODE IN ACTION HERE**
-deployed link : `https://nishant5397.github.io/Coding-assessment-l2/`
+deployed link : https://nishant5397.github.io/Coding-assessment-l2/
 
 
 
