@@ -1,8 +1,8 @@
 **Single Page E-commerce Store**
 
-**WATCH THE CODE IN ACTION HERE**
-deployed link : https://nishant5397.github.io/Coding-assessment-l2/
 
+**Live Demo:**
+[Click here to view the live demo](https://nishant5397.github.io/Coding-assessment-l2/)
 
 
 **Description:**
@@ -36,4 +36,5 @@ This project is a single-page e-commerce store built using HTML, CSS, and JavaSc
 **Author:**
 [Nishant Godse]
 contact: nishantgodse@gmail.com
+
 
